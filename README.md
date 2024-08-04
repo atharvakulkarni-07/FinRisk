@@ -50,8 +50,7 @@ Several new features are created to enhance the predictive power of the model:
 ## Model Training and Evaluation
 
 The dataset is split into training (70%) and testing (30%) sets. A logistic regression model is trained using the training data. The model's performance is evaluated using the testing data with the following metrics:
-- **Accuracy**: 97%
-- **Precision**
+- **Accuracy**: 92%
 
 ## Results
 
